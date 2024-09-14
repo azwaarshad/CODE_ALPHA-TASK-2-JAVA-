@@ -1,1 +1,2 @@
-# CODE_ALPHA-TASK-2-JAVA-
+# CODE_ALPHA TASK 2 (JAVA)
+## Stock Trading Platform
